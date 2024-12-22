@@ -16,15 +16,9 @@ Ensure Python is installed on your system. You can download it from python.org.
 
 Clone the repository or download the calculator.py file.
 
-bash
-Copy code
-git clone <repository-url>
-cd <repository-directory>
 Run the application using the command:
 
-bash
-Copy code
-python calculator.py
+calculator.py
 Usage
 Click on the number buttons to enter values.
 Click on the operation buttons (+, -, *, ÷) to select an operation.
